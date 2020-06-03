@@ -1,0 +1,14 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Explosive flies"     gfx="collectibles_hivemod_war.png"        name="Short-Tempered Fly" cache="familiars" />
+	<passive description="Poisonous flies"     gfx="collectibles_hivemod_pestilence.png" name="Poison Hive"        cache="familiars" />
+	<passive description="Sticky flies"        gfx="collectibles_hivemod_famine.png"     name="Sedated Fly"        cache="familiars" />
+	<passive description="Deadly flies"        gfx="collectibles_hivemod_death.png"      name="Deathbringer"       cache="familiars" />
+	<passive description="Eternal flies"       gfx="collectibles_hivemod_conquest.png"   name="Fly of Conquest"    cache="familiars" />
+	<passive description="Random flies"        gfx="collectibles_hivemod_random.png"     name="Vibrant Fly"        cache="familiars" />
+	<trinket description="I bring War"         gfx="trinket_hivemod_war.png"             name="Flower of War" />
+	<trinket description="I bring Pestilence"  gfx="trinket_hivemod_pestilence.png"      name="Flower of Pestilence" />
+	<trinket description="I bring Famine"      gfx="trinket_hivemod_famine.png"          name="Flower of Famine" />
+	<trinket description="I bring Death"       gfx="trinket_hivemod_death.png"           name="Flower of Death" />
+	<trinket description="I bring Conquest"    gfx="trinket_hivemod_conquest.png"        name="Flower of Conquest" />
+	<trinket description="I bring Disturbance" gfx="trinket_hivemod_random.png"          name="Vibrant Flower" />
+</items>

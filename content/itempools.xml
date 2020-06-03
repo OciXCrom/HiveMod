@@ -1,0 +1,57 @@
+<ItemPools>
+	<Pool Name="angel">
+		<Item Name="Fly of Conquest" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="bombBum">
+		<Item Name="Short-Tempered Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="bossrush">
+		<Item Name="Short-Tempered Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Poison Hive" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Deathbringer" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Fly of Conquest" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Vibrant Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="challenge">
+		<Item Name="Short-Tempered Fly" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Deathbringer" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="curse">
+		<Item Name="Short-Tempered Fly" Weight="0.2" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="devil">
+		<Item Name="Deathbringer" Weight="0.8" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="dungeon">
+		<Item Name="Short-Tempered Fly" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Deathbringer" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="greedAngel">
+		<Item Name="Fly of Conquest" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="greedDevil">
+		<Item Name="Deathbringer" Weight="0.8" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="greedShop">
+		<Item Name="Short-Tempered Fly" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Poison Hive" Weight="0.8" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Deathbringer" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Fly of Conquest" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Vibrant Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="secret">
+		<Item Name="Deathbringer" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Vibrant Fly" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="shop">
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="treasure">
+		<Item Name="Poison Hive" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Sedated Fly" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+</ItemPools>
