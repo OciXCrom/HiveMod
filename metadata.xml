@@ -3,27 +3,36 @@
     <name>HiveMod</name>
     <directory>hivemod</directory>
     <id>2117694048</id>
-    <description>https://youtu.be/8-hzo06U_44
+    <description>[b]Adds 6 new passive items and trinkets that modify your blue flies. The fly modifications are the same used by the Locusts and 7 Seals trinkets.[/b]
 
-Adds 6 new passive items and trinkets that modify your blue flies. The fly modifications are the same used by the Locusts and 7 Seals trinkets. The items include:
-
-Short-Tempered Fly - flies explode on contact
-Poison Hive - makes all of your flies poisonous
-Sedated Fly - flies slow down enemies
-Deathbringer - flies deal 4x Isaac's damage
-Fly of Conquest - flies have a 25% chance to respawn after they die
-Vibrant Fly - randomizes each fly spawned with one of the above
+[h1]Items in this mod[/h1]
+[list][*]Short-Tempered Fly - flies explode on contact
+[*]Poison Hive - makes all of your flies poisonous
+[*]Sedated Fly - flies slow down enemies
+[*]Deathbringer - flies deal 4x Isaac's damage
+[*]Fly of Conquest - flies have a 33% chance to respawn after they die
+[*]Vibrant Fly - randomizes each fly spawned with one of the above[/list]
 
 The flies are modified as soon as they spawn. Picking up one of the item will also transform all flies you currently have or will spawn 3-8 flies if you don't have any.
 
 Items such as Guppy's Head, Jar of Flies, Hive Mind and all others synergize with HiveMod. This is especially useful when transformed into Guppy!
 
+Picking up multiple HiveMod items will give equal chances to spawn any one of the acquired fly variants. For example, picking up Poison Hive and Deathbringer will result in a 50/50 chance to spawn either a poison or deadly fly.
+
 The item pools are also updated to include the new items. Some of them can only appear in Treasure Rooms, others in Devil or Angel Rooms, etc.
 
 There are also trinkets that have the same effect, although they have only a 10% chance to modify a blue fly.
 
-PS: this is my first ever mod for The Binding of Isaac and first time coding in LUA. I wanted to make this mod for a while now and I hope to see it implemented in the game one day.</description>
-    <version>1.3</version>
+[h1]Trinkets in this mod[/h1]
+[list][*]Flower of War - has a 10% chance to turn a blue fly into a red locust
+[*]Flower of Pestilence - has a 10% chance to turn a blue fly into a green locust
+[*]Flower of Famine - has a 10% chance to turn a blue fly into a yellow locust
+[*]Flower of Death - has a 10% chance to turn a blue fly into a black locust
+[*]Flower of Conquest - has a 10% chance to turn a blue fly into a white locust
+[*]Vibrant - has a 10% chance to turn a blue fly into a random locust[/list]
+
+[i]PS: this is my first ever mod for The Binding of Isaac and first time coding in LUA. I wanted to make this mod for a while now and I hope to see it implemented in the game one day.[/i]</description>
+    <version>1.4</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
     <tag id="Items"/>
